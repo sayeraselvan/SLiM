@@ -6,7 +6,7 @@ This project involves using SLiM (Selection on Linked Mutations) to perform evol
 
 ## Prerequisites
 To run these simulations, you will need the following:
-- [SLiM 3.x](https://messerlab.org/slim/) installed on your system.
+- [SLiM 4.3](https://messerlab.org/slim/) installed on your system.
 - Basic knowledge of population genetics.
 - Python (or other language) for additional analysis if needed.
 
